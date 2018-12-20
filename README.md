@@ -2,7 +2,7 @@
 Small CSS lib
 
 ```
-###Abbreviations:###
+## Abbreviations ##
 
 ml - margin-left
 mr - margin-right
@@ -10,7 +10,7 @@ mt - margin-top
 mb - margin-bottom
 
 
-###Example:###
+## Example ##
 
 mb10 - margin-bottom:10px;
 pl15 - padding-left:15px;
